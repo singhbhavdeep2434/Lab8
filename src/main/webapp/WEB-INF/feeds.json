@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Title Feed 1",
+        "description": "First feed description.",
+        "date": "2024-10-30"
+    },
+    {
+        "title": "Title Feed 2",
+        "description": "Second feed description.",
+        "date": "2024-10-29"
+    },
+    {
+        "title": "Title Feed 3",
+        "description": "Third feed description.",
+        "date": "2024-10-28"
+    }
+]
